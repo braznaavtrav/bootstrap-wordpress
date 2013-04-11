@@ -1,11 +1,11 @@
 (function($) {
   
-var eCornell = {
+var BootstrapWordpress = {
   init: function() {
     console.log('running');
   }
 };
 
-eCornell.init();
+BootstrapWordpress.init();
 
 })(jQuery);
