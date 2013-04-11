@@ -19,7 +19,7 @@ function my_scripts_method() {
   );
   wp_enqueue_script(
   	'custom',
-  	get_template_directory_uri() . '/js/custom.js',
+  	get_template_directory_uri() . '/js/bootstrapWordpress.js',
   	array( 'bootstrap' ),
   	'',
   	true
